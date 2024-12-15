@@ -4,7 +4,7 @@
         fetch="https://github.com/LineageOS/" revision="lineage-21" />
     <remote name="muppets"
         fetch="https://github.com/TheMuppets/" revision="lineage-21" />
-    <remote name="fazwalrus"
+    <remote name="4mede"
         fetch="https://github.com/4mede/" revision="aosp-15" />
     <remote name="reza"
         fetch="https://gitlab.com/DelightReza/" revision="lineage-21" />

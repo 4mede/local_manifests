@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/motorola/borneo" name="device_motorola_borneo"
-        remote="4mede" revision="aosp-15"/>
+        remote="4mede" revision="yaap"/>
     <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo"
         remote="muppets" revision="lineage-22"/> 
 </manifest>
